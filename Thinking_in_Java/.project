@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>Thinking_in_Java</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>TIJ4-code</name>
+			<type>2</type>
+			<location>/Volumes/disk1/java/ThinkInJava/TIJ4-code</location>
+		</link>
+		<link>
+			<name>util</name>
+			<type>2</type>
+			<location>/Volumes/disk1/java/ThinkInJava/TIJ4-code/net/mindview/util</location>
+		</link>
+	</linkedResources>
+</projectDescription>

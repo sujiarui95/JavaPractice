@@ -1,0 +1,6 @@
+package mypackeg;
+
+public class DogTest {
+	Dog dog = new Dog();
+	dog.size = 15;
+}

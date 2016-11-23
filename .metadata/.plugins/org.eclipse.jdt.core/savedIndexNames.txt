@@ -1,0 +1,6 @@
+INDEX VERSION 1.129+/Volumes/disk1/java/.metadata/.plugins/org.eclipse.jdt.core
+3204708960.index
+417508547.index
+2206410594.index
+2797063529.index
+1065276915.index

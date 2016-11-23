@@ -1,0 +1,22 @@
+package mypackeg;
+
+public class CallbackDemo {
+	//callback function
+	static int even2(int x){
+		return x*2;
+	}
+	int even4(int x){
+		return x*4;
+	}
+	//中间函数
+	int getOddNubmer(int y,int getEvenNumber){
+		return getEvenNumber+1;
+	}
+	
+	public static void main(String[] args) {
+		int x = 1;
+		CallbackDemo y = new CallbackDemo();
+		System.out.println(y.getOddNubmer(x, even2(3);
+	}
+		
+}

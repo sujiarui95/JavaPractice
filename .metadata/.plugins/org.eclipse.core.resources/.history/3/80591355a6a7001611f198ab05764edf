@@ -1,0 +1,14 @@
+package mypackeg;
+
+public class CallbackDemo {
+	//callback function
+	int even(int x){
+		return x*2;
+	}
+	//中间函数
+	int getOddNubmer(int y,getEvenNumber){
+		return getEvenNumber+1;
+	}
+	
+		
+}

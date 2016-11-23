@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.oomph.setup.ui.synchronizer.SynchronizerDialog">
+		<item value="600" key="dialogHeight"/>
+		<item value="800" key="dialogWidth"/>
+	</section>
+	<section name="SetupWizard">
+		<section name="ProgressPage">
+		</section>
+		<section name="ConfirmationPage">
+		</section>
+		<section name="VariablePage">
+		</section>
+	</section>
+	<section name="OptInDialog">
+		<item value="Do you want to save your preferences on the Eclipse.org server so you can share them on other workstations?" key="DIALOG_MESSAGE"/>
+		<item value="400" key="DIALOG_WIDTH"/>
+		<item value="1|.SF NS Text|11.0|0|COCOA|1|.SFNSText-Regular" key="DIALOG_FONT_NAME"/>
+		<item value="245" key="DIALOG_HEIGHT"/>
+	</section>
+	<section name="org.eclipse.oomph.setup.ui.recorder.PreferenceInitializationDialog">
+		<item value="600" key="dialogHeight"/>
+		<item value="500" key="dialogWidth"/>
+	</section>
+</section>

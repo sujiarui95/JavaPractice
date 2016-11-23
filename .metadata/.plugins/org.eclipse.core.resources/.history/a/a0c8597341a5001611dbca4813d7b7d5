@@ -1,0 +1,12 @@
+package mypackeg;
+
+public class SimpleConstructor {
+	public SimpleConstructor() {
+		// TODO Auto-generated constructor stub
+	System.out.println("Hah~");
+	}
+	public static void main(String[] args) {
+		SimpleConstructor simpleConstructor = new SimpleConstructor();
+
+	}
+}

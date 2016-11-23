@@ -1,0 +1,12 @@
+package mypackeg;
+
+public class CallbackDemo {
+	//callback function
+	int odd(int x){
+		return x*2;
+	}
+	
+	
+		
+	}
+}

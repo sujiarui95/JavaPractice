@@ -1,0 +1,23 @@
+package mypackeg;
+
+public class Dog {
+	private int size;
+	public int getSize() {
+		return size;
+	}
+	public void setSize(int s) {
+		size = s;
+	}
+	
+	public static void main(String[] args) {
+		Dog dog = new Dog();
+		Cat cat = new Cat();
+		cat.fight();
+	}
+}//Dog
+
+class Cat{
+	public void fight(){
+		System.out.println("111111");
+	}
+}

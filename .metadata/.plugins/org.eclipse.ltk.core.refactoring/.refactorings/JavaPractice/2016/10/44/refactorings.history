@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;mypackeg.Books&apos; to &apos;BooksTestDrive&apos;&#x0A;- Original project: &apos;JavaPractice&apos;&#x0A;- Original element: &apos;mypackeg.Books&apos;&#x0A;- Renamed element: &apos;mypackeg.BooksTestDrive&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Books&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;mypackeg{Books.java[Books" matchStrategy="1" name="BooksTestDrive" qualified="false" references="true" similarDeclarations="false" stamp="1477641624199" textual="false" version="1.0"/>
+</session>

@@ -1,0 +1,7 @@
+package mypackeg;
+
+public class DotComTest {
+	public static void main(String[] args) {
+char a = 'ss';
+	}
+}

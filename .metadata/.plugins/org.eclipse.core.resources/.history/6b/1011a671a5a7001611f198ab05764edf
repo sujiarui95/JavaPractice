@@ -1,0 +1,11 @@
+package mypackeg;
+
+public class CallbackDemo {
+	
+	public static void main(String[] args) {
+		//callback function
+		int double(){
+			
+		}
+	}
+}

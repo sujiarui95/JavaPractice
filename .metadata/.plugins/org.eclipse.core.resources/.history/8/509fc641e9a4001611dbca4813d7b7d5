@@ -1,0 +1,13 @@
+package mypackeg;
+
+public class Dog {
+private int size;
+public int getSize() {
+	return size;
+}
+public int setSize(int s) {
+	size = s;
+}
+
+
+}//Dog

@@ -1,0 +1,31 @@
+package mypackeg;
+
+public class Dog {
+String name;
+int size;
+//public static void main(String[] args){
+//	//创建Dog对象
+//	Dog dog1 = new Dog();
+//	dog1.bark();
+//	dog1.name = "Tom";
+//	//创建Dog数组
+//	Dog[] myDogs = new Dog[3];
+//	//我的狗们
+//	myDogs[0] = new Dog();
+//	myDogs[1] = new Dog();
+//	myDogs[2] = dog1;
+//	
+//	myDogs[0].name = "Frank";
+//	myDogs[1].name = "Hah";
+//	
+//	System.out.println("the last dog's name is: " + myDogs[2].name);
+//	//让每条狗叫一叫bark()
+//	for(int i = 0;i<myDogs.length;i++){
+//		myDogs[i].bark();
+//		}	
+//	}//main
+void bark(String name){
+	System.out.println(this.name + " says HAH");
+}
+
+}//Dog

@@ -1,0 +1,8 @@
+package mypackeg;
+
+
+public class CallbackDemo {
+	public void solve();
+		
+	
+}

@@ -1,0 +1,11 @@
+package mypackeg;
+
+public class CallbackDemo {
+	int odd(int x){
+		return x*2;
+	}
+	public static void main(String[] args) {
+		//callback function
+		
+	}
+}

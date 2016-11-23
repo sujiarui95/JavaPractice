@@ -1,0 +1,9 @@
+package mypackeg;
+
+public class SimpleConstructor {
+	public SimpleConstructor() {
+		// TODO Auto-generated constructor stub
+	System.out.println("Hah~");
+	}
+	SimpleConstructor simpleConstructor = new SimpleConstructor();
+}

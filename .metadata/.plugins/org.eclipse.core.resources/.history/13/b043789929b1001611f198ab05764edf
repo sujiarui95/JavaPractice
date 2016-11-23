@@ -1,0 +1,21 @@
+package mypackeg;
+
+import javax.xml.bind.annotation.W3CDomHandler;
+
+public class OrderOfInit {
+	
+}
+
+class Window{
+	Window(int marker){
+		System.out.println("Window("+ marker+")");
+	}
+}
+
+class House{
+	Window w1 = new Window(1);
+	House(){
+		System.out.println("House()");
+		w3 = new Window(33);
+	}
+}

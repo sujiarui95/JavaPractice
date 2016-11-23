@@ -1,0 +1,25 @@
+package mypackeg;
+
+public class SimpleConstructor {
+	public SimpleConstructor() {
+		// TODO Auto-generated constructor stub
+	System.out.println("Hah~");
+	}
+	int size;
+	float price;
+	void showSize(){	
+		System.out.println(this.size);
+	}
+	public float getPrice(float p) {
+		return this.price;
+	}
+	
+	
+	public static void main(String[] args) {
+		SimpleConstructor simpleConstructor = new SimpleConstructor();
+		simpleConstructor.size = 100;
+		simpleConstructor.showSize();
+		float p = 0 ;
+		simpleConstructor.getPrice(p);
+	}
+}

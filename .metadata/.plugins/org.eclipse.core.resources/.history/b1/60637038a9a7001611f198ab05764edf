@@ -1,0 +1,9 @@
+package mypackeg;
+
+import java.util.concurrent.ThreadPoolExecutor.CallerRunsPolicy;
+
+public class CallbackDemo {
+	private CallbackInterface ci;
+	public  void Caller(){}
+	
+}

@@ -1,0 +1,5 @@
+package ThinkingInJava;
+
+public class OrderOfInitialization {
+
+}

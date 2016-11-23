@@ -1,0 +1,10 @@
+package mypackeg;
+
+public class CallbackDemo {
+	private CallbackInterface ci;
+	public 
+}
+
+public interface CallbackInterface{
+	public void fuc();
+}

@@ -1,0 +1,27 @@
+package mypackeg;
+
+class Demo{
+	String temp = "hello";
+}
+
+public class Test {
+	public static void main(String[] args) {
+		String str1 = "Hello";
+		System.out.println(str1);		
+		tell(str1);
+		System.out.println(str1);
+		
+		Demo demo = new Demo();
+		demo.temp = "nisha";
+		System.out.println(demo.temp);
+		tell(demo);
+		System.out.println(demo.temp);
+	}
+	public static void tell(Demo demo1){
+		   demo1.temp = "shenjingbing";
+	}
+	public static void tell(String str2){
+		str2 = "str2"
+	}
+	
+}

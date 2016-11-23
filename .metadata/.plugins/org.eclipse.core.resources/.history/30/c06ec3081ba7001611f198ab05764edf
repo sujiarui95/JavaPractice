@@ -1,0 +1,11 @@
+package ThinkingInJava;
+
+class Window{
+	Window(int marker){
+		System.out.println("Window("+marker+")");
+	}
+}
+
+public class OrderOfInitialization {
+
+}

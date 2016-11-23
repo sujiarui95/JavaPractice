@@ -1,0 +1,8 @@
+package mypackeg;
+
+
+public class CallbackDemo {
+	private CallbackInterface ci;
+	public  void Caller(){}
+	
+}

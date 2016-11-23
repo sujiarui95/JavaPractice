@@ -1,0 +1,17 @@
+package mypackeg;
+
+import java.sql.Ref;
+
+public class Test {
+	public static void main(String[] args) {
+		int i = 1;
+		System.out.println(i);
+		ref(i);
+		System.out.println(i);
+System.out.print(ref(i));
+	}
+	public static void ref(int j){
+		j = 2;
+	}
+	
+}

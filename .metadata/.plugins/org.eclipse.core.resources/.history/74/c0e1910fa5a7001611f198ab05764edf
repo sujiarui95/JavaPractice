@@ -1,0 +1,11 @@
+package ThinkingInJava;
+
+class Bowln{
+	Bowl(int marker){
+		System.out.println("Bowl("+marker+")");
+	}
+}
+
+public class StaticInitialization {
+
+}

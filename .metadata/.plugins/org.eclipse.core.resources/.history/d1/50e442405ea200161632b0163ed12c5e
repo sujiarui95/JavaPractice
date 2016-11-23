@@ -1,0 +1,23 @@
+package mypackeg;
+
+import java.nio.channels.ShutdownChannelGroupException;
+
+public class VendingMachine {
+	int price = 80;
+	int balance;
+	int total;
+	
+	void setPrice(int price){
+		this.price = price;
+	}
+	void showPrice(){
+		System.out.println(price);
+	}
+	void showPrompt(){
+		System.out.println("Welcome");
+	}
+	
+public static void main(String[] args) {
+			VendingMachine vm1 = new VendingMachine();
+	}//main
+}//Test
